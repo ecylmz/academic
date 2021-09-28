@@ -1,17 +1,17 @@
 - id: toggle_navigation
   translation: Arayüz yönünü değiştir
 - id: table_of_contents
-  translation: Table of Contents
+  translation: İçindekiler
 - id: on_this_page
   translation: On this page
 - id: back_to_top
   translation: Back to top
 - id: home
-  translation: Home
+  translation: Ana sayfa
 - id: close
-  translation: Close
+  translation: Kapat
 - id: languages
-  translation: Languages
+  translation: Diller
 - id: related
   translation: İlişkili
 - id: minute_read
@@ -61,13 +61,13 @@
 - id: education
   translation: Eğitim
 - id: user_profile_latest
-  translation: Latest
+  translation: En son
 - id: see_certificate
-  translation: See certificate
+  translation: Sertifikayı gör
 - id: present
-  translation: Present
+  translation: Sunum
 - id: more_pages
-  translation: See all
+  translation: Hepsini gör
 - id: more_posts
   translation: Daha fazla blog içeriği
 - id: more_talks
@@ -107,13 +107,13 @@
 - id: pub_preprint
   translation: Preprint
 - id: pub_report
-  translation: Report
+  translation: Rapor
 - id: pub_book
   translation: Book
 - id: pub_book_section
-  translation: Book section
+  translation: Kitap bölümü
 - id: pub_thesis
-  translation: Thesis
+  translation: Tez
 - id: pub_patent
   translation: Patent
 - id: open_project_site
@@ -125,9 +125,9 @@
 - id: talks
   translation: Konuşmalar
 - id: projects
-  translation: Projects
+  translation: Projeler
 - id: slides
-  translation: Slides
+  translation: Slaytlar
 - id: authors
   translation: Yazarlar
 - id: search
@@ -139,16 +139,16 @@
 - id: search_no_results
   translation: Sonuç bulunamadı
 - id: search_common_queries
-  translation: Common searches
+  translation: Ortak aramalar
 - id: page_not_found
-  translation: Page not found
+  translation: Sayfa bulunamadı
 - id: 404_recommendations
-  translation: Perhaps you were looking for one of these?
+  translation: Belki bunlardan birini arıyordunuz??
 - id: cookie_message
-  translation: This website uses cookies to ensure you get the best experience on our website.
+  translation: Bu web sitesi, web sitemizde en iyi deneyimi yaşamanızı sağlamak için çerezleri kullanır.
 - id: cookie_dismiss
-  translation: Got it!
+  translation: Anladım!
 - id: cookie_learn
-  translation: Learn more
+  translation: Daha fazla bilgi edin
 - id: published_with
   translation: Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
