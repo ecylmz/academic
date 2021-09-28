@@ -6,7 +6,7 @@ title: Emre Can Yılmaz
 superuser: true
 
 # Role/position/tagline
-role: Öğretim Görevlisi & Linux Sistem Yöneticisi
+role: 'Öğretim Görevlisi & Linux Sistem Yöneticisi'
 
 # Organizations/Affiliations to show in About widget
 organizations:

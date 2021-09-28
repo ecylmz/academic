@@ -5,6 +5,9 @@
 # Default language
 tr:
   languageCode: tr
+  title: 'Emre Can Yılmaz'
+  params:
+    description: 'Öğretim Görevlisi & Linux Sistem Yöneticisi'
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
