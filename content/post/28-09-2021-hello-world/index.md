@@ -29,7 +29,7 @@ image:
 projects: []
 ---
 
-Herkese merhaba!
+Herkese merhaba! 👋
 
 Uzun zamandır blog sayfamı Jekyll'dan Hugo'ya taşımak istiyordum. Çok da özel bir nedeni yok, değişiklik olmasını istedim.
 Uzun uzun hangi temayı seçmeliyim diye düşündükten sonra bu temaya geçiş yaptım. İnanın tema seçmek çok çok zor bir iş.
