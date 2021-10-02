@@ -1,7 +1,7 @@
 ---
 title: AutoDokkuBackup
 summary: Dokku sunucusundaki PostgreSQL ve MariaDB veritabanlarının günlük haftalık ve aylık yedeklerini alır.
-date: "2016-04-27T00:00:00Z"
+date: "2021-10-02"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
