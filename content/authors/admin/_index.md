@@ -56,5 +56,3 @@ highlight_name: true
 ---
 
 Burada genellikle kendim için yazdığım notlar bulunmakta. Yardımcı olabileceğimi düşündüğün konular için e-posta gönderebilirsin.
-
-Eski bloguma ulaşmak istiyorsan [tıkla](https://old.ecylmz.com).
